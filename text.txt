@@ -1,0 +1,10 @@
+dbcon.php - configure database
+index.php - allows user to login
+login.php - allows user to login
+dash.php -  if the user was able to login redirect him to the dashboard
+logout.php  - allows user to logout
+
+
+
+add icons 
+in login.php check login succesful and password incorrect part
