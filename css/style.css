@@ -1,1 +1,227 @@
+body.login{
+    background-color: rgb(226, 213, 213);
+}
+.bx{
+    box-shadow: 2px, 2px, 18px, rgba(0,0,0,0.2);
+}
+.card{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.button-size {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.button-size{
+    
+    
+    
+    position:relative;
+    top:20%; 
+    left:30%;
+}
+.my_card {
+    margin-left: 30px;
+   
 
+}
+.card-size{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.my_card:hover{
+    box-shadow: 2px 2px 12px rgba(0,0,0,1);
+    transition-duration: 0.3s;
+}
+.main-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+  }
+.header-text-holder{
+    text-align: center;
+    padding-top: 100px;
+    color: rgb(48, 15, 48);
+    text-shadow: 2px 2px 8px #270c27;
+    font-family: 'Times New Roman', Times, serif;
+    white-space: nowrap;
+  }
+.main-header{
+    width: 100%;
+    height: 100px;
+    background: url(../media/musicbanner.jpg);
+    background-size: cover;
+    
+    padding-bottom: 15em;
+    margin: -80px 0px 0px 0px;
+
+}
+.white_bg 
+{
+    background-color: #e4d0e0;
+    padding: 3px; 
+    font-size: 50px;
+}
+.text{
+    color: #3b0347;
+    text-shadow: #e4d0e0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.desc{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 500;
+}
+.reg{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.space{
+    padding-top: 15px;
+    padding-bottom: 50px;
+    position: absolute;
+    left: 150px;
+    width: 800px;
+    height: 120px;
+    
+
+}
+.coordinate{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 25%;
+}
+.heading{
+    font-style: oblique;
+    color: #470a30;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.list{
+    font-weight: bold;
+}
+.mainhead{
+    width: 100%;
+    height: 100px;
+    background: url(../media/aimlbanner.jpg);
+    background-size: cover;
+    padding-bottom: 15em;
+    margin: -80px 0px 0px 0px;
+}
+.main-h{
+    width: 100%;
+    height: 100px;
+    background: url(../media/roboticbanner.jpg);
+    background-size: cover;
+    padding-bottom: 15em;
+    margin: -80px 0px 0px 0px;
+}
+.head-bg{
+    background-color: #e4d0e0;
+    padding: 3px; 
+    font-size: 55px;
+
+}
+.main-head{
+    width: 100%;
+    height: 100px;
+    background: url(../media/csiban.jpg);
+    background-size: cover;
+    padding-bottom: 15em;
+    margin: -80px 0px 0px 0px;
+}
+.log{
+    text-align: center;
+}
+.btn-adjust{
+    height: 40px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:20%; 
+    left:50%;
+
+}
+.nav-button{
+padding-left: 10px;
+
+}
+.fcrit{
+    float: center;
+    padding-left: 20vw;
+}
+.fcrit a{
+ font-size: 25px;
+ text-decoration: none;
+ font-weight: 700;
+ color: #fff;
+}
+.fcrit a:hover{
+    text-decoration: none;
+}
+.fcrit a:visited{
+    text-decoration: none;
+}
+.align{
+    columns: 2;
+}
+.sec{
+    font-weight: bold;
+}
+.com{
+    padding-left: 25%;
+    padding-bottom: 5% ;
+    padding-top: 2%;
+}
+
+.boxes{
+    width: auto;
+    padding-left: 15%;
+}
+
+.musicbg{
+    padding-left: 15%;
+    padding-bottom: 55%;
+}
+.butt {
+    
+    background-color: rebeccapurple;
+    position: relative;
+    top: 15%;
+    left: 45%;
+    font-size: 20px;
+    padding-bottom: 10px;
+    
+}
+.para{
+    font-size: large;
+}
+.member {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+ 
+}
+
+p.member {
+    border-style: double;
+    border-color: #270c27;
+}
+.mem{
+    padding-top: 25px;
+    text-align: center;
+}
